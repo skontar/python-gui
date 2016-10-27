@@ -1,0 +1,9 @@
+#!/bin/bash
+
+./extended_tkinter.py &
+sleep 0.5
+./extended_wxpython.py &
+sleep 0.5
+./extended_pyqt5.py &
+sleep 0.5
+./extended_pygobject.py &

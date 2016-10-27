@@ -1,0 +1,6 @@
+#!/bin/bash
+
+./hello_tkinter.py &
+./hello_wxpython.py &
+./hello_pyqt5.py &
+./hello_pygobject.py &
